@@ -1,0 +1,386 @@
+2018-02-22 21:30:07 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-22 21:30:07 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-22 21:30:15 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 21:30:23 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-22 21:30:23 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-22 21:30:31 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 21:30:39 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-22 21:30:42 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (9ef7ea6f0a62c36cf26246979859ea53)] -> name: username]
+2018-02-22 21:30:42 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (9ef7ea6f0a62c36cf26246979859ea53)] -> name: password]
+2018-02-22 21:31:20 INFO  TestBase:179 - browser closed
+2018-02-22 21:38:00 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-22 21:38:00 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-22 21:38:07 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 21:38:14 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-22 21:38:14 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-22 21:38:22 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 21:38:30 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-22 21:38:33 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (be899560d937d0ca9c1479401b5a85a9)] -> name: username]
+2018-02-22 21:38:33 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (be899560d937d0ca9c1479401b5a85a9)] -> name: password]
+2018-02-22 21:39:12 INFO  TestBase:179 - browser closed
+2018-02-22 21:43:18 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-22 21:43:18 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-22 21:43:25 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 21:43:32 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-22 21:43:33 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-22 21:43:37 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 21:43:45 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-22 21:43:48 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (1f9749f42fd30c6e9594a5eca4ce7443)] -> name: username]
+2018-02-22 21:43:48 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (1f9749f42fd30c6e9594a5eca4ce7443)] -> name: password]
+2018-02-22 21:44:26 INFO  TestBase:179 - browser closed
+2018-02-22 21:45:03 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-22 21:45:03 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-22 21:46:51 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 21:47:00 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-22 21:47:00 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-22 21:47:16 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 21:47:25 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-22 21:47:31 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (2045aa926587a4a7d47e14696d8949f0)] -> name: username]
+2018-02-22 21:47:31 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (2045aa926587a4a7d47e14696d8949f0)] -> name: password]
+2018-02-22 21:48:34 INFO  TestBase:179 - browser closed
+2018-02-22 21:50:36 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-22 21:50:36 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-22 21:50:42 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 21:50:50 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-22 21:50:50 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-22 21:50:57 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 21:51:05 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-22 21:51:08 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (c7df1c36943b54f25c1f2fc3fe34ca61)] -> name: username]
+2018-02-22 21:51:08 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (c7df1c36943b54f25c1f2fc3fe34ca61)] -> name: password]
+2018-02-22 21:51:20 INFO  TestBase:179 - browser closed
+2018-02-22 21:57:38 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-22 21:57:38 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-22 21:57:44 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 21:57:52 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-22 21:57:52 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-22 21:57:58 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 21:58:06 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-22 21:58:09 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (e9366c7a3b8a44b7f00408999954b2f3)] -> name: username]
+2018-02-22 21:58:09 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (e9366c7a3b8a44b7f00408999954b2f3)] -> name: password]
+2018-02-22 21:58:18 INFO  Login:59 - ============================End of teslogin====================
+2018-02-22 21:58:19 INFO  TestBase:179 - browser closed
+2018-02-22 21:59:09 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-22 21:59:09 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-22 21:59:15 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 21:59:22 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-22 21:59:22 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-22 21:59:29 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 21:59:38 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-22 21:59:41 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (7b10e41570f1d4154523b1a03328da6c)] -> name: username]
+2018-02-22 21:59:41 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (7b10e41570f1d4154523b1a03328da6c)] -> name: password]
+2018-02-22 22:00:25 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-02-22 22:00:25 INFO  Login:59 - ============================End of teslogin====================
+2018-02-22 22:00:26 INFO  TestBase:179 - browser closed
+2018-02-22 22:09:39 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-22 22:09:39 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-22 22:09:46 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 22:09:53 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-22 22:09:53 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-22 22:10:01 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 22:10:09 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-22 22:10:12 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (70b5bb8e147a255efe5a589dd4438a56)] -> name: username]
+2018-02-22 22:10:12 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (70b5bb8e147a255efe5a589dd4438a56)] -> name: password]
+2018-02-22 22:10:49 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-02-22 22:10:49 INFO  Login:59 - ============================End of teslogin====================
+2018-02-22 22:10:51 INFO  TestBase:180 - browser closed
+2018-02-22 22:15:42 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-22 22:15:42 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-22 22:15:49 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 22:15:58 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-22 22:15:58 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-22 22:16:06 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 22:16:14 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-22 22:16:18 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (0f8be70632aba590c079cdf7067fd298)] -> name: username]
+2018-02-22 22:16:53 INFO  TestBase:180 - browser closed
+2018-02-22 22:21:19 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-22 22:21:19 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-22 22:21:27 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 22:21:40 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-22 22:21:40 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-22 22:21:48 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-22 22:21:55 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-22 22:21:58 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (aa42d73d56a4cb79d0e0e8c413db21ef)] -> name: username]
+2018-02-22 22:22:34 INFO  TestBase:182 - browser closed
+2018-02-23 22:16:04 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-23 22:16:04 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-23 22:16:11 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-23 22:16:19 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-23 22:16:19 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-23 22:16:27 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-23 22:16:35 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-23 22:16:38 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (6c0426f68a278ff689b96d9e17fd433b)] -> name: username]
+2018-02-23 22:16:38 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (6c0426f68a278ff689b96d9e17fd433b)] -> name: password]
+2018-02-23 22:17:16 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-02-23 22:17:16 INFO  Login:59 - ============================End of teslogin====================
+2018-02-23 22:17:18 INFO  TestBase:182 - browser closed
+2018-02-23 22:47:47 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-23 22:47:47 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-23 22:47:53 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-23 22:48:03 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-23 22:48:03 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-23 22:48:09 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-23 22:48:17 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-23 22:48:20 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (1d5bfccb774ec897c8671fbf766296e0)] -> name: username]
+2018-02-23 22:48:20 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (1d5bfccb774ec897c8671fbf766296e0)] -> name: password]
+2018-02-23 22:48:55 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-02-23 22:49:27 INFO  TestBase:182 - browser closed
+2018-02-23 22:59:55 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-23 22:59:55 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-23 23:00:02 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-23 23:00:09 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-23 23:00:10 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-23 23:00:14 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-23 23:00:21 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-23 23:00:24 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (be107d3f58594e3577ea11481af0394f)] -> name: username]
+2018-02-23 23:00:24 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (be107d3f58594e3577ea11481af0394f)] -> name: password]
+2018-02-23 23:01:00 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-02-23 23:01:00 INFO  LoginPage:76 - switched to the iframe
+2018-02-23 23:01:32 INFO  TestBase:182 - browser closed
+2018-02-23 23:03:29 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-23 23:03:29 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-23 23:03:35 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-23 23:03:42 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-23 23:03:42 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-23 23:03:49 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-23 23:03:56 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-23 23:03:59 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (67ea3f310cdf009ff745c11f077cd304)] -> name: username]
+2018-02-23 23:03:59 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (67ea3f310cdf009ff745c11f077cd304)] -> name: password]
+2018-02-23 23:04:35 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-02-23 23:04:36 INFO  LoginPage:76 - switched to the iframe
+2018-02-23 23:05:07 INFO  TestBase:182 - browser closed
+2018-02-23 23:08:16 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-23 23:08:16 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-23 23:08:20 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-23 23:08:27 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-23 23:08:27 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-23 23:08:34 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-23 23:08:41 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-23 23:08:45 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (bc5482862f7f68e066ec8b11d3de721a)] -> name: username]
+2018-02-23 23:08:45 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (bc5482862f7f68e066ec8b11d3de721a)] -> name: password]
+2018-02-23 23:09:21 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-02-23 23:09:53 INFO  TestBase:182 - browser closed
+2018-02-23 23:14:29 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-23 23:14:29 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-23 23:14:34 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-23 23:14:41 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-23 23:14:41 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-23 23:14:46 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-23 23:14:53 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-23 23:14:56 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (4f8d0ad78b089d595d6ecbb15731f4e8)] -> name: username]
+2018-02-23 23:14:57 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (4f8d0ad78b089d595d6ecbb15731f4e8)] -> name: password]
+2018-02-23 23:15:33 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-02-23 23:15:33 INFO  LoginPage:76 - switched to the iframe
+2018-02-23 23:15:33 INFO  Login:61 - ============================End of teslogin====================
+2018-02-23 23:15:37 INFO  TestBase:182 - browser closed
+2018-02-23 23:16:43 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-23 23:16:43 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-23 23:16:47 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-23 23:16:55 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-23 23:16:55 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-23 23:16:59 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-23 23:17:07 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-23 23:17:10 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (1ec7b24c594b112b811f4c49d8b22701)] -> name: username]
+2018-02-23 23:17:10 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (1ec7b24c594b112b811f4c49d8b22701)] -> name: password]
+2018-02-23 23:17:47 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-02-23 23:17:47 INFO  LoginPage:76 - switched to the iframe
+2018-02-23 23:17:50 INFO  Login:62 - ============================End of teslogin====================
+2018-02-23 23:17:54 INFO  TestBase:182 - browser closed
+2018-02-23 23:22:15 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-23 23:22:18 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (0e1d5798f0489f5941b9a4bff68916c7)] -> name: username]
+2018-02-23 23:22:19 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (0e1d5798f0489f5941b9a4bff68916c7)] -> name: password]
+2018-02-23 23:22:57 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-02-23 23:22:57 INFO  LoginPage:77 - switched to the iframe
+2018-02-23 23:22:57 INFO  Login:60 - ============================End of teslogin====================
+2018-02-23 23:22:58 INFO  TestBase:182 - browser closed
+2018-02-24 21:51:32 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-24 21:51:33 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-24 21:51:42 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-24 21:51:49 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-24 21:51:49 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-24 21:51:58 INFO  TestBase:85 - Navigating to https://www.freecrm.com/index.html
+2018-02-24 21:52:05 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-24 21:52:08 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (ad536a7e6df01a3c1e239c714fc0fb0b)] -> name: username]
+2018-02-24 21:52:08 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (ad536a7e6df01a3c1e239c714fc0fb0b)] -> name: password]
+2018-02-24 21:52:45 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-02-24 21:52:45 INFO  Login:60 - ============================End of teslogin====================
+2018-02-24 21:52:47 INFO  TestBase:182 - browser closed
+2018-02-24 22:11:03 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-24 22:11:03 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-24 22:11:10 INFO  TestBase:86 - Navigating to https://www.freecrm.com/index.html
+2018-02-24 22:11:16 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-24 22:11:16 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-24 22:11:24 INFO  TestBase:86 - Navigating to https://www.freecrm.com/index.html
+2018-02-24 22:11:31 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-24 22:11:34 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (e66a9278692196e8b85f48de549db46b)] -> name: username]
+2018-02-24 22:11:34 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (e66a9278692196e8b85f48de549db46b)] -> name: password]
+2018-02-24 22:12:13 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-02-24 22:12:13 INFO  Login:60 - ============================End of teslogin====================
+2018-02-24 22:12:14 INFO  TestBase:183 - browser closed
+2018-02-24 22:16:13 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-02-24 22:16:13 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-02-24 22:16:20 INFO  TestBase:86 - Navigating to https://www.freecrm.com/index.html
+2018-02-24 22:16:28 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-02-24 22:16:28 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-02-24 22:16:38 INFO  TestBase:86 - Navigating to https://www.freecrm.com/index.html
+2018-02-24 22:16:46 INFO  Login:56 - ============================Staring teslogin====================
+2018-02-24 22:16:49 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (29368f1e2fb9d97f18c021fa5c826a00)] -> name: username]
+2018-02-24 22:16:49 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (29368f1e2fb9d97f18c021fa5c826a00)] -> name: password]
+2018-02-24 22:17:26 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-02-24 22:17:26 INFO  Login:60 - ============================End of teslogin====================
+2018-02-24 22:17:28 INFO  TestBase:183 - browser closed
+2018-03-02 22:36:54 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-03-02 22:36:54 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-03-02 22:37:05 INFO  TestBase:86 - Navigating to https://www.freecrm.com/index.html
+2018-03-02 22:37:11 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-03-02 22:37:12 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-03-02 22:37:20 INFO  TestBase:86 - Navigating to https://www.freecrm.com/index.html
+2018-03-02 22:37:27 INFO  Login:56 - ============================Staring teslogin====================
+2018-03-02 22:37:30 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (380dabecea3991e1cdeba75ce1d9c0fa)] -> name: username]
+2018-03-02 22:37:31 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (380dabecea3991e1cdeba75ce1d9c0fa)] -> name: password]
+2018-03-02 22:38:05 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-03-02 22:38:06 INFO  Login:60 - ============================End of teslogin====================
+2018-03-02 22:38:07 INFO  TestBase:183 - browser closed
+2018-03-02 22:40:53 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-03-02 22:40:53 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-03-02 22:41:02 INFO  TestBase:86 - Navigating to https://www.freecrm.com/index.html
+2018-03-02 22:41:10 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-03-02 22:41:10 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-03-02 22:41:18 INFO  TestBase:86 - Navigating to https://www.freecrm.com/index.html
+2018-03-02 22:41:26 INFO  Login:56 - ============================Staring teslogin====================
+2018-03-02 22:41:29 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (f242157dc47b194dee911d348c7b912e)] -> name: username]
+2018-03-02 22:41:29 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (f242157dc47b194dee911d348c7b912e)] -> name: password]
+2018-03-02 22:42:05 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-03-02 22:42:05 INFO  Login:60 - ============================End of teslogin====================
+2018-03-02 22:42:06 INFO  TestBase:183 - browser closed
+2018-03-02 22:47:27 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-03-02 22:47:27 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-03-02 22:47:35 INFO  TestBase:86 - Navigating to https://www.freecrm.com/index.html
+2018-03-02 22:47:46 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-03-02 22:47:46 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-03-02 22:47:54 INFO  TestBase:86 - Navigating to https://www.freecrm.com/index.html
+2018-03-02 22:48:02 INFO  Login:56 - ============================Staring teslogin====================
+2018-03-02 22:48:05 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (63b14a8422a03e6a25b9a59f4fee7695)] -> name: username]
+2018-03-02 22:48:05 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (63b14a8422a03e6a25b9a59f4fee7695)] -> name: password]
+2018-03-02 22:48:40 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-03-02 22:48:40 INFO  Login:60 - ============================End of teslogin====================
+2018-03-02 22:48:41 INFO  TestBase:183 - browser closed
+2018-03-02 22:50:27 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-03-02 22:50:27 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-03-02 22:50:35 INFO  TestBase:86 - Navigating to https://www.freecrm.com/index.html
+2018-03-02 22:50:41 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-03-02 22:50:41 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-03-02 22:50:51 INFO  TestBase:86 - Navigating to https://www.freecrm.com/index.html
+2018-03-02 22:50:59 INFO  Login:56 - ============================Staring teslogin====================
+2018-03-02 22:51:02 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (b37702798d8c2b6f06173b123edbe73e)] -> name: username]
+2018-03-02 22:51:02 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (b37702798d8c2b6f06173b123edbe73e)] -> name: password]
+2018-03-02 22:51:38 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-03-02 22:51:38 INFO  Login:60 - ============================End of teslogin====================
+2018-03-02 22:51:39 INFO  TestBase:183 - browser closed
+2018-03-02 23:58:39 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-03-02 23:58:39 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-03-02 23:58:46 INFO  TestBase:94 - Navigating to https://www.freecrm.com/index.html
+2018-03-02 23:58:57 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-03-02 23:58:57 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-03-02 23:59:04 INFO  TestBase:94 - Navigating to https://www.freecrm.com/index.html
+2018-03-02 23:59:10 INFO  Login:56 - ============================Staring teslogin====================
+2018-03-02 23:59:14 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (16635962e1db98031361eb64e5b7cf5b)] -> name: username]
+2018-03-02 23:59:14 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (16635962e1db98031361eb64e5b7cf5b)] -> name: password]
+2018-03-02 23:59:48 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-03-02 23:59:49 INFO  Login:60 - ============================End of teslogin====================
+2018-03-02 23:59:50 INFO  TestBase:191 - browser closed
+2018-03-03 00:05:35 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-03-03 00:05:36 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-03-03 00:05:44 INFO  TestBase:96 - Navigating to https://www.freecrm.com/index.html
+2018-03-03 00:05:50 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-03-03 00:05:50 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-03-03 00:05:59 INFO  TestBase:96 - Navigating to https://www.freecrm.com/index.html
+2018-03-03 00:06:06 INFO  Login:56 - ============================Staring teslogin====================
+2018-03-03 00:06:10 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (6572a2989d5f5f4b4d3a55eab3c45148)] -> name: username]
+2018-03-03 00:06:10 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (6572a2989d5f5f4b4d3a55eab3c45148)] -> name: password]
+2018-03-03 00:06:45 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-03-03 00:06:45 INFO  Login:60 - ============================End of teslogin====================
+2018-03-03 00:06:47 INFO  TestBase:193 - browser closed
+2018-03-03 00:09:10 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-03-03 00:09:10 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-03-03 00:09:18 INFO  TestBase:96 - Navigating to https://www.freecrm.com/index.html
+2018-03-03 00:09:26 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-03-03 00:09:26 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-03-03 00:09:34 INFO  TestBase:96 - Navigating to https://www.freecrm.com/index.html
+2018-03-03 00:09:42 INFO  Login:56 - ============================Staring teslogin====================
+2018-03-03 00:09:45 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (7b13b57bf707055e43d8ded92f9618c1)] -> name: username]
+2018-03-03 00:09:45 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (7b13b57bf707055e43d8ded92f9618c1)] -> name: password]
+2018-03-03 00:10:20 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-03-03 00:10:20 INFO  Login:60 - ============================End of teslogin====================
+2018-03-03 00:10:21 INFO  TestBase:193 - browser closed
+2018-03-03 00:12:43 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-03-03 00:12:43 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-03-03 00:12:50 INFO  TestBase:95 - Navigating to https://www.freecrm.com/index.html
+2018-03-03 00:12:57 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-03-03 00:12:57 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-03-03 00:13:05 INFO  TestBase:95 - Navigating to https://www.freecrm.com/index.html
+2018-03-03 00:13:13 INFO  Login:56 - ============================Staring teslogin====================
+2018-03-03 00:13:16 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (8789746c05d56759263ef62e234420ba)] -> name: username]
+2018-03-03 00:13:16 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (8789746c05d56759263ef62e234420ba)] -> name: password]
+2018-03-03 00:13:51 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-03-03 00:13:51 INFO  Login:60 - ============================End of teslogin====================
+2018-03-03 00:13:53 INFO  TestBase:192 - browser closed
+2018-03-03 00:14:45 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-03-03 00:14:45 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-03-03 00:14:53 INFO  TestBase:95 - Navigating to https://www.freecrm.com/index.html
+2018-03-03 00:15:00 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-03-03 00:15:00 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-03-03 00:15:08 INFO  TestBase:95 - Navigating to https://www.freecrm.com/index.html
+2018-03-03 00:15:15 INFO  Login:56 - ============================Staring teslogin====================
+2018-03-03 00:15:18 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (5b5d46510e066edbd6907c206efa9ebc)] -> name: username]
+2018-03-03 00:15:18 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (5b5d46510e066edbd6907c206efa9ebc)] -> name: password]
+2018-03-03 00:15:53 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-03-03 00:15:53 INFO  Login:60 - ============================End of teslogin====================
+2018-03-03 00:15:55 INFO  TestBase:192 - browser closed
+2018-03-12 21:20:24 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-03-12 21:20:25 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-03-12 21:20:29 INFO  TestBase:95 - Navigating to https://www.freecrm.com/index.html
+2018-03-12 21:20:37 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-03-12 21:20:38 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-03-12 21:20:45 INFO  TestBase:95 - Navigating to https://www.freecrm.com/index.html
+2018-03-12 21:20:53 INFO  Login:56 - ============================Staring teslogin====================
+2018-03-12 21:20:56 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (b3a8672dc43a35e6d7344348d58f04eb)] -> name: username]
+2018-03-12 21:20:57 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (b3a8672dc43a35e6d7344348d58f04eb)] -> name: password]
+2018-03-12 21:21:33 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-03-12 21:21:33 INFO  Login:60 - ============================End of teslogin====================
+2018-03-12 21:21:35 INFO  TestBase:192 - browser closed
+2018-03-12 21:47:34 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-03-12 21:47:34 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-03-12 21:47:40 INFO  TestBase:95 - Navigating to https://www.freecrm.com/index.html
+2018-03-12 21:47:48 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-03-12 21:47:48 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-03-12 21:47:54 INFO  TestBase:95 - Navigating to https://www.freecrm.com/index.html
+2018-03-12 21:48:02 INFO  Login:56 - ============================Staring teslogin====================
+2018-03-12 21:48:05 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (bf3deb518fbbcda7e81634d930f8d5c9)] -> name: username]
+2018-03-12 21:48:05 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (bf3deb518fbbcda7e81634d930f8d5c9)] -> name: password]
+2018-03-12 21:48:41 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-03-12 21:48:41 INFO  Login:60 - ============================End of teslogin====================
+2018-03-12 21:48:43 INFO  TestBase:192 - browser closed
+2018-03-12 22:01:35 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-03-12 22:01:35 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-03-12 22:01:40 INFO  TestBase:95 - Navigating to https://www.freecrm.com/index.html
+2018-03-12 22:01:50 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-03-12 22:01:50 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-03-12 22:01:55 INFO  TestBase:95 - Navigating to https://www.freecrm.com/index.html
+2018-03-12 22:02:04 INFO  Login:56 - ============================Staring teslogin====================
+2018-03-12 22:02:07 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (85b327e23ace36962c21cb4b56b81d29)] -> name: username]
+2018-03-12 22:02:08 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (85b327e23ace36962c21cb4b56b81d29)] -> name: password]
+2018-03-12 22:02:44 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-03-12 22:02:44 INFO  Login:60 - ============================End of teslogin====================
+2018-03-12 22:02:45 INFO  TestBase:192 - browser closed
+2018-03-18 17:38:32 INFO  Login:40 - ============================Staring loginPageTitleTest====================
+2018-03-18 17:38:33 INFO  Login:43 - ============================End of loginPageTitleTest====================
+2018-03-18 17:38:37 INFO  TestBase:95 - Navigating to https://www.freecrm.com/index.html
+2018-03-18 17:38:46 INFO  Login:48 - ============================Staring cmrLogoTest====================
+2018-03-18 17:38:46 INFO  Login:51 - ============================End of cmrLogoTest====================
+2018-03-18 17:38:51 INFO  TestBase:95 - Navigating to https://www.freecrm.com/index.html
+2018-03-18 17:39:00 INFO  Login:56 - ============================Staring teslogin====================
+2018-03-18 17:39:03 INFO  LoginPage:50 - The username is entered and the object is[[ChromeDriver: chrome on XP (8f6536ec7d61ee1c29d4746b7db44061)] -> name: username]
+2018-03-18 17:39:03 INFO  LoginPage:52 - The password is entered and object is[[ChromeDriver: chrome on XP (8f6536ec7d61ee1c29d4746b7db44061)] -> name: password]
+2018-03-18 17:39:38 INFO  LoginPage:54 - Clicked on login button and the object isProxy element for: DefaultElementLocator 'By.xpath: //input[@type='submit']'
+2018-03-18 17:39:38 INFO  Login:60 - ============================End of teslogin====================
+2018-03-18 17:39:39 INFO  TestBase:192 - browser closed
